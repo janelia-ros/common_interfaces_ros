@@ -1,9 +1,6 @@
-std_msgs/Header header
-
-string[] name
-float64[] latch_position
-bool[] head_bar_sensor_active
+float64 time_in_seconds
 float64 load_cell_voltage_ratio
-
-float64 perf_counter
+int8 right_head_bar_sensor_state
+int8 left_head_bar_sensor_state
+float64 latch_position
 string now
