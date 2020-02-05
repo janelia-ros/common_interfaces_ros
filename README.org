@@ -1,0 +1,15 @@
+#+TITLE: Janelia ROS Common Interfaces
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peterpolidoro@gmail.com
+
+* Library Information
+  - Name :: Janelia ROS Common Interfaces
+  - Version :: 1.0.0
+  - License :: BSD
+  - URL :: https://github.com/janelia-ros/common_interfaces_ros
+  - Author :: Peter Polidoro
+  - Email :: peterpolidoro@gmail.com
+
+** Description
+
+   A set of packages which contain common interface files (.msg and .srv).
