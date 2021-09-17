@@ -1,6 +1,6 @@
 #+TITLE: ROS Joint Control Messages
 #+AUTHOR: Peter Polidoro
-#+EMAIL: peterpolidoro@gmail.com
+#+EMAIL: peter@polidoro.io
 
 * Library Information
   - Name :: Janelia ROS Common Interfaces
@@ -8,6 +8,6 @@
   - License :: BSD
   - URL :: https://github.com/janelia-ros/common_interfaces_ros
   - Author :: Peter Polidoro
-  - Email :: peterpolidoro@gmail.com
+  - Email :: peter@polidoro.io
 
 ** Description
